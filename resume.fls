@@ -329,6 +329,9 @@ INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/mathabx/mathx10.tfm
 INPUT c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 INPUT c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
+INPUT c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
+INPUT c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomeone.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/typoland/carlito/Carlito-Bold-osf-t1.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT c:/texlive/2019/texmf-dist/tex/latex/carlito/TS1Carlito-OsF.fd
@@ -345,6 +348,7 @@ INPUT c:/repo/self/resume/resume.aux
 INPUT c:/repo/self/resume/resume.out
 INPUT c:/repo/self/resume/resume.out
 INPUT c:/texlive/2019/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc
+INPUT c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc
 INPUT c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
 INPUT c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb

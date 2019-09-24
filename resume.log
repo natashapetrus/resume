@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  24 SEP 2019 13:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  24 SEP 2019 13:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1260,55 +1260,59 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 127.
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 126.
  (c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
+LaTeX Font Info:    Try loading font information for U+fontawesomeone on input line 127.
+ (c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
+File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
+)
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/bx/n' in size <14.05255> not available
-(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 141.
+(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 140.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/b/n' will be
-(Font)              scaled to size 13.34987pt on input line 141.
-LaTeX Font Info:    Try loading font information for TS1+Carlito-OsF on input line 149.
+(Font)              scaled to size 13.34987pt on input line 140.
+LaTeX Font Info:    Try loading font information for TS1+Carlito-OsF on input line 148.
  (c:/texlive/2019/texmf-dist/tex/latex/carlito/TS1Carlito-OsF.fd
 File: TS1Carlito-OsF.fd 2014/08/20 (autoinst) Font definitions for TS1/Carlito-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 149.
+(Font)              scaled to size 9.49997pt on input line 148.
 
-Overfull \hbox (16.63318pt too wide) in paragraph at lines 113--773
+Overfull \hbox (16.63318pt too wide) in paragraph at lines 113--772
 []$[]$ $[]$  $[]$
  []
 
 
-Overfull \hbox (27.7087pt too wide) in paragraph at lines 113--773
+Overfull \hbox (27.7087pt too wide) in paragraph at lines 113--772
 [][] 
  []
 
 [1
 
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 774.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 774.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 773.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 773.
  (c:/repo/self/resume/resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 774.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 774.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 773.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 773.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 774.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 773.
  ) 
 Here is how much of TeX's memory you used:
- 25541 strings out of 492609
- 441508 string characters out of 6132833
+ 25552 strings out of 492609
+ 441844 string characters out of 6132833
  535835 words of memory out of 5000000
- 28975 multiletter control sequences out of 15000+600000
- 66433 words of font info for 55 fonts, out of 8000000 for 9000
+ 28981 multiletter control sequences out of 15000+600000
+ 66749 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,54p,989b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2019/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb><c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on c:/repo/self/resume/resume.pdf (1 page, 114149 bytes).
+{c:/texlive/2019/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb><c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on c:/repo/self/resume/resume.pdf (1 page, 122283 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 42 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  2061 words of extra memory for PDF output out of 10000 (max. 10000000)
 
