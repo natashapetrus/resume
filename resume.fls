@@ -337,6 +337,7 @@ INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT c:/texlive/2019/texmf-dist/tex/latex/carlito/TS1Carlito-OsF.fd
 INPUT c:/texlive/2019/texmf-dist/tex/latex/carlito/TS1Carlito-OsF.fd
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/typoland/carlito/Carlito-osf-ts1.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/typoland/carlito/Carlito-osf-t1.tfm
 INPUT c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/typoland/carlito/Carlito-osf-t1.vf
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/typoland/carlito/Carlito-osf-t1--base.tfm
@@ -344,6 +345,8 @@ INPUT c:/texlive/2019/texmf-dist/fonts/vf/typoland/carlito/Carlito-Bold-osf-t1.v
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/typoland/carlito/Carlito-Bold-osf-t1--base.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/typoland/carlito/Carlito-Bold-osf-t1.vf
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/typoland/carlito/Carlito-Bold-osf-t1--base.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/vf/typoland/carlito/Carlito-osf-t1.vf
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/typoland/carlito/Carlito-osf-t1--base.tfm
 INPUT c:/repo/self/resume/resume.aux
 INPUT c:/repo/self/resume/resume.out
 INPUT c:/repo/self/resume/resume.out
